@@ -1,0 +1,38 @@
+
+.intro .intro-img {
+    width: 650px;
+    float: right; 
+}
+
+/*  Bcakground image and style */
+body { 
+  background-image: url(../assets/img/Free-Download-Zen-HD-Wallpaper-Computer-1.jpeg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+} 
+
+.footerLink{
+    text-decoration: none;
+}
+
+.italicText{
+ font-style: italic;
+}
+
+.boldText{
+    font-style: bold;
+}
+
+.blackText{
+    color: black;
+}
+
+.fontStyle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.fontSize{
+    font-size: 1.5em;
+}

@@ -1,0 +1,76 @@
+
+
+body { 
+    background-image: url(../assets/img/Free-Download-Zen-HD-Wallpaper-Computer-1.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+  } 
+  
+.links  {
+    color: rgba(255, 255, 255, 0.7);
+    font-weight: bold;
+    text-transform: uppercase !important;
+    display: inline-block;
+    text-decoration: none;
+    
+  }
+
+.center-links {
+      text-align: center;
+  }
+
+.header { 
+     color: #e6a756; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+.headerPositioning{
+    background-color: #2F170F;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+}
+
+.bodyPositioning{
+    top: 101;
+    bottom: 150px;
+    right: 100;
+    left: 100;
+    margin: 3%;
+}
+
+.footerPositioning{
+    height: 150px;
+    background-color: #2F170F;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerText{
+    font-size: 0.875em;
+    color: #f6e1c5;
+    text-decoration: none;
+
+}
+
+.tableauText{
+    color: #f6e1c5;
+    font-size: 2em;
+}
+
+a:hover{
+
+  color: rgb(143, 144, 144);
+}
+
+
+
+
